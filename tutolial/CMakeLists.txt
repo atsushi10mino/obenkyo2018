@@ -10,6 +10,7 @@ project(tutolial)
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
   roscpp
+  nav_msgs
 )
 
 ## System dependencies are found with CMake's conventions
